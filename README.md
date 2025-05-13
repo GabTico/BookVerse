@@ -1,9 +1,6 @@
 Aclaratoria uso de API no relacionada con libros:
-Durante la prueba, interpreté que el objetivo principal era evaluar mis habilidades técnicas en desarrollo frontend, por lo que enfoqué mis esfuerzos en cumplir con todos los requerimientos funcionales: la SPA, el consumo de API, el modo claro/oscuro, y la navegación con React Router.
 
-Por eso decidí utilizar la API de FakeStore, que aunque no es de libros, me permitió demostrar de forma clara mi dominio técnico. Reconozco que el nombre ‘BookVerse’ sugiere una temática de libros, y si se hubiera tratado de un proyecto real para producción, habría priorizado esa coherencia temática o adaptado los datos en función del concepto.
-
-Admito también que, debido a limitaciones de tiempo y algunas dificultades de conexión que enfrenté durante el desarrollo, opté por una solución que me permitiera cumplir con lo esencial en el marco disponible. Aun así, estoy completamente dispuesto a ajustar el enfoque si así lo requiere el caso de uso real.
+Bueno quería decir que en primer lugar se me paso dejar eso argumentado en el README anoche durante el desarrollo de la prueba, lo que sucedió es que llegaba el momento de desarrollar la API me di cuenta que en el link de recursos no aparecían recursos relacionadas en la tienda que en este caso eran libros. Antes de entrar en pánico tome en cuenta las posibilidades que tenia 1 buscar y bajar de la internet los recursos para la tienda de libro y armar las cards pero eso se me limitaba por la conectividad. 2 trabajar con otro tipo de recursos que estuvieran disponibles en el link de recursos para API que me fue dado en la prueba así que entonces me decidí por esta opción enfocándome en demostrar mis habilidades técnicas y que el resultado fuera acorde a lo solicitado en las instrucciones dadas. También me gustaría destacar que gracias a las estrategias que he aprendido en este programa, pude enfocarme en lo importante y no entrar en pánico por temor a no cumplir con la actividad.
 
 INTRUCCIONES PRUEBA TECNICA:
 
