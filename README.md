@@ -1,17 +1,31 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# BookVerse
- Prueba tecnica sesión EmpleaTech para recreación de una tienda falsa utilizando las tecnologias React JS y React Router DOM
->>>>>>> 6c9f08a6e1777109cd608045608227d3e77d0be2
+Desarrollo Web Frontend – BookVerse (Educación) 
+Sobre nosotros: BookVerse es una startup que promueve la lectura digital ofreciendo una 
+plataforma amigable, moderna y funcional para usuarios de todas las edades. 
+Reto técnico: Diseñar una SPA que consuma una API de libros, implemente modo oscuro y 
+tenga navegación por categorías. 
+Objetivo: Evaluar tu dominio en React, manejo de estados, APIs, estilos y UX básica. 
+Insumo: 
+● API productos - FakeStore 
+Tecnologías sugeridas: 
+Unset
+ React o Angular, Axios, React Router, TailwindCSS o Bootstrap 
+Mockup (estructura esperada): 
+● Header con logo ficticio (color #004080) 
+● Cards de productos con imagen, título, precio y botón 
+● Toggle modo claro/oscuro 
+● Footer con contacto y redes sociales 
+Colores: 
+● Principal: #004080 
+● Secundario: #FF6B6B 
+● Fondo claro: #F9F9F9 / oscuro: #1E1E1E 
+Fuente: Montserrat o Roboto 
+Parte teórica (preguntas abiertas): 
+1. ¿Qué es el Virtual DOM? 
+2. Props vs State en React 
+3. Buenas prácticas CSS 
+4. ¿Cómo implementas accesibilidad (a11y)? 
+5. ¿Por qué responsividad es importante? 
+Parte práctica: 
+● SPA funcional con consumo de API 
+● Navegación interna 
+● Tema claro/oscuro 
